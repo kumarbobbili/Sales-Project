@@ -1,0 +1,103 @@
+sku_id,sku_name,category,subcategory,brand
+SKU0086,BrandB Shampoo,Personal Care,Shampoo,BrandB
+SKU0016,BrandD Water,Beverages,Water,BrandD
+SKU0049,BrandA Yogurt,Dairy,Yogurt,BrandA
+SKU0036,BrandF Chocolate,Snacks,Chocolate,BrandF
+SKU0006,BrandF Soda,Beverages,Soda,BrandF
+SKU0067,BrandA Detergent,Home Care,Detergent,BrandA
+SKU0063,BrandC Cheese,Dairy,Cheese,BrandC
+SKU0008,BrandB Juice,Beverages,Juice,BrandB
+SKU0093,BrandC Soap,Personal Care,Soap,BrandC
+SKU0018,BrandF Water,Beverages,Water,BrandF
+SKU0050,BrandB Yogurt,Dairy,Yogurt,BrandB
+SKU0055,BrandA Milk,Dairy,Milk,BrandA
+SKU0051,BrandC Yogurt,Dairy,Yogurt,BrandC
+SKU0033,BrandC Chocolate,Snacks,Chocolate,BrandC
+SKU0070,BrandD Detergent,Home Care,Detergent,BrandD
+SKU0020,BrandB Energy drink,Beverages,Energy drink,BrandB
+SKU0004,BrandD Soda,Beverages,Soda,BrandD
+SKU0035,BrandE Chocolate,Snacks,Chocolate,BrandE
+SKU0072,BrandF Detergent,Home Care,Detergent,BrandF
+SKU0014,BrandB Water,Beverages,Water,BrandB
+SKU0026,BrandB Chips,Snacks,Chips,BrandB
+SKU0069,BrandC Detergent,Home Care,Detergent,BrandC
+SKU0094,BrandD Soap,Personal Care,Soap,BrandD
+SKU0040,BrandD Biscuits,Snacks,Biscuits,BrandD
+SKU0015,BrandC Water,Beverages,Water,BrandC
+SKU0080,BrandB Cleaner,Home Care,Cleaner,BrandB
+SKU0084,BrandF Cleaner,Home Care,Cleaner,BrandF
+SKU0012,BrandF Juice,Beverages,Juice,BrandF
+SKU0068,BrandB Detergent,Home Care,Detergent,BrandB
+SKU0037,BrandA Biscuits,Snacks,Biscuits,BrandA
+SKU0077,BrandE Softener,Home Care,Softener,BrandE
+SKU0047,BrandE Nuts,Snacks,Nuts,BrandE
+SKU0054,BrandF Yogurt,Dairy,Yogurt,BrandF
+SKU0024,BrandF Energy drink,Beverages,Energy drink,BrandF
+SKU0043,BrandA Nuts,Snacks,Nuts,BrandA
+SKU0065,BrandE Cheese,Dairy,Cheese,BrandE
+SKU0029,BrandE Chips,Snacks,Chips,BrandE
+SKU0046,BrandD Nuts,Snacks,Nuts,BrandD
+SKU0056,BrandB Milk,Dairy,Milk,BrandB
+SKU0041,BrandE Biscuits,Snacks,Biscuits,BrandE
+SKU0073,BrandA Softener,Home Care,Softener,BrandA
+SKU0027,BrandC Chips,Snacks,Chips,BrandC
+SKU0042,BrandF Biscuits,Snacks,Biscuits,BrandF
+SKU0011,BrandE Juice,Beverages,Juice,BrandE
+SKU0101,BrandE Toothpaste,Personal Care,Toothpaste,BrandE
+SKU0100,BrandD Toothpaste,Personal Care,Toothpaste,BrandD
+SKU0039,BrandC Biscuits,Snacks,Biscuits,BrandC
+SKU0031,BrandA Chocolate,Snacks,Chocolate,BrandA
+SKU0007,BrandA Juice,Beverages,Juice,BrandA
+SKU0082,BrandD Cleaner,Home Care,Cleaner,BrandD
+SKU0001,BrandA Soda,Beverages,Soda,BrandA
+SKU0076,BrandD Softener,Home Care,Softener,BrandD
+SKU0096,BrandF Soap,Personal Care,Soap,BrandF
+SKU0053,BrandE Yogurt,Dairy,Yogurt,BrandE
+SKU0092,BrandB Soap,Personal Care,Soap,BrandB
+SKU0048,BrandF Nuts,Snacks,Nuts,BrandF
+SKU0060,BrandF Milk,Dairy,Milk,BrandF
+SKU0078,BrandF Softener,Home Care,Softener,BrandF
+SKU0081,BrandC Cleaner,Home Care,Cleaner,BrandC
+SKU0023,BrandE Energy drink,Beverages,Energy drink,BrandE
+SKU0045,BrandC Nuts,Snacks,Nuts,BrandC
+SKU0062,BrandB Cheese,Dairy,Cheese,BrandB
+SKU0010,BrandD Juice,Beverages,Juice,BrandD
+SKU0087,BrandC Shampoo,Personal Care,Shampoo,BrandC
+SKU0095,BrandE Soap,Personal Care,Soap,BrandE
+SKU0002,BrandB Soda,Beverages,Soda,BrandB
+SKU0074,BrandB Softener,Home Care,Softener,BrandB
+SKU0059,BrandE Milk,Dairy,Milk,BrandE
+SKU0066,BrandF Cheese,Dairy,Cheese,BrandF
+SKU0090,BrandF Shampoo,Personal Care,Shampoo,BrandF
+SKU0099,BrandC Toothpaste,Personal Care,Toothpaste,BrandC
+SKU0061,BrandA Cheese,Dairy,Cheese,BrandA
+SKU0019,BrandA Energy drink,Beverages,Energy drink,BrandA
+SKU0097,BrandA Toothpaste,Personal Care,Toothpaste,BrandA
+SKU0038,BrandB Biscuits,Snacks,Biscuits,BrandB
+SKU0030,BrandF Chips,Snacks,Chips,BrandF
+SKU0017,BrandE Water,Beverages,Water,BrandE
+SKU0058,BrandD Milk,Dairy,Milk,BrandD
+SKU0098,BrandB Toothpaste,Personal Care,Toothpaste,BrandB
+SKU0021,BrandC Energy drink,Beverages,Energy drink,BrandC
+SKU0005,BrandE Soda,Beverages,Soda,BrandE
+SKU0102,BrandF Toothpaste,Personal Care,Toothpaste,BrandF
+SKU0071,BrandE Detergent,Home Care,Detergent,BrandE
+SKU0025,BrandA Chips,Snacks,Chips,BrandA
+SKU0022,BrandD Energy drink,Beverages,Energy drink,BrandD
+SKU0032,BrandB Chocolate,Snacks,Chocolate,BrandB
+SKU0028,BrandD Chips,Snacks,Chips,BrandD
+SKU0075,BrandC Softener,Home Care,Softener,BrandC
+SKU0083,BrandE Cleaner,Home Care,Cleaner,BrandE
+SKU0052,BrandD Yogurt,Dairy,Yogurt,BrandD
+SKU0009,BrandC Juice,Beverages,Juice,BrandC
+SKU0044,BrandB Nuts,Snacks,Nuts,BrandB
+SKU0034,BrandD Chocolate,Snacks,Chocolate,BrandD
+SKU0003,BrandC Soda,Beverages,Soda,BrandC
+SKU0064,BrandD Cheese,Dairy,Cheese,BrandD
+SKU0088,BrandD Shampoo,Personal Care,Shampoo,BrandD
+SKU0079,BrandA Cleaner,Home Care,Cleaner,BrandA
+SKU0089,BrandE Shampoo,Personal Care,Shampoo,BrandE
+SKU0013,BrandA Water,Beverages,Water,BrandA
+SKU0091,BrandA Soap,Personal Care,Soap,BrandA
+SKU0057,BrandC Milk,Dairy,Milk,BrandC
+SKU0085,BrandA Shampoo,Personal Care,Shampoo,BrandA
